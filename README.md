@@ -1,0 +1,2 @@
+# Pattern-Recognition-on-Biological-Data
+ The project aims to implement a biological data analysis process. The used dataset contains biological sequences of proteins from the Cytokines family. The dataset is in this the following link https://www.uniprot.org/uniprot/?query=cytokines&amp;sort=score The file contains 22332 entry (since 13 january 2022). In this project we are going to analyse and process this dataset
